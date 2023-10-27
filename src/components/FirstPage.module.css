@@ -1,0 +1,23 @@
+:root {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 1182px;
+  height: 522px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  padding-top: 85px;
+  padding-left: 30px;
+}
+.dice_image {
+  width: 649px;
+  height: 522px;
+}
+.play_link {
+  text-decoration: none;
+}
+
+

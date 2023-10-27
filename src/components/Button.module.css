@@ -1,0 +1,60 @@
+.btn1 {
+  width: 220px;
+  height: 44px;
+  background-color: #000000;
+  border-radius: 5px;
+  padding: 10px 18px 10px 18px;
+  text-decoration: none;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  border: none;
+  transition: 0.4s background ease;
+}
+.btn1:hover {
+  width: 220px;
+  height: 44px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px 18px 10px 18px;
+  text-decoration: none;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 16px;
+  color: black;
+  cursor: pointer;
+  border: 1px solid black;
+  transition: 0.4s background ease;
+}
+.btn2 {
+  width: 220px;
+  height: 44px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px 18px 10px 18px;
+  text-decoration: none;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 16px;
+  color: black;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: 0.4s background ease;
+}
+.btn2:hover {
+  width: 220px;
+  height: 44px;
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px 18px 10px 18px;
+  text-decoration: none;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: 0.4s background ease;
+}
